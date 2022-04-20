@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@vue/cli-service": "^3.12.1"
+  }
+}
